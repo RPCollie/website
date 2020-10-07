@@ -5,6 +5,11 @@ body{
     text-align:center;
 }
 
+a {
+    font-size:12px;
+    padding:10px;
+}
+
 a:link {
   color: navy;
 }
