@@ -5,8 +5,14 @@ body{
     text-align:center;
 }
 
-header {
-    background:navy;   
+.header {
+    background:navy; 
+    font-size:35px;
+}
+
+h1 {
+    color:gold;
+    
 }
 
 a {
