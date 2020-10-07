@@ -7,7 +7,7 @@
 }
 
 .parallax{
-   background: <img src="https://images.unsplash.com/photo-1480497490787-505ec076689f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80" alt"mountain"> no-repeat center;  
+   background: url(img src="https://images.unsplash.com/photo-1480497490787-505ec076689f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80" alt"mountain") no-repeat center;  
    background-size:cover;
    background-attachment:fixed;
    
