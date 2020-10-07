@@ -4,6 +4,24 @@ body{
     padding:0;
     text-align:center;
 }
+
+a:link {
+  color: navy;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: navy;
+}
+
+
 .container{
     display:grid;
     grid-template-columns: repeat(6,1fr);
