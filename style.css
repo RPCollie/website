@@ -26,7 +26,8 @@ div {
 }
 
 .img-area-three{
-      background-image: url(images/city.jpg);  
+      background-image: url(images/city.jpg); 
+      -webkit-background-size:cover;
       background-position:center center;
       background-attachment:fixed;
 }
