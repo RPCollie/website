@@ -11,4 +11,45 @@ div {
      box-sizing:border-box; 
 }
 
+.img-area-one{
+      background-image: url('images/mountain.jpg');  
+      -webkit-background-size:cover;
+      background-position:center center;
+      background-attachment:fixed;
+}
+
+.img-area-two{
+      background-image: url('images/mountain2.jpg.jpg');  
+      -webkit-background-size:cover;
+      background-position:center center;
+      background-attachment:fixed;
+}
+
+.img-area-three{
+      background-image: url('images/city.jpg');  
+      -webkit-background-size:cover;
+      background-position:center center;
+      background-attachment:fixed;
+}
+
+.img-area-four{
+      background-image: url('images/city2.jpg');  
+      -webkit-background-size:cover;
+      background-position:center center;
+      background-attachment:fixed;
+}
+
+.box {
+      padding: 70px 125px;
+      height:auto;
+      background: #0000;
+      color: #ffff;
+      text-align: center;
+}
+
+.box h2 {
+        font-size: 35px;
+        margin:0;
+}
+
 
