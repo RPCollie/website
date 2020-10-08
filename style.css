@@ -35,7 +35,7 @@ div {
 .img-area-four{
       background-image: url(images/city2.jpg);  
       -webkit-background-size:cover;
-      background-position:center center;
+      background-position:center;
       background-attachment:fixed;
 }
 
