@@ -13,28 +13,24 @@ div {
 
 .img-area-one{
       background-image: url(images/mountain.jpg);  
-      -webkit-background-size:cover;
-      background-position:center center;
+      background-position:center;
       background-attachment:fixed;
 }
 
 .img-area-two{
-      background-image: url(images/mountain2.jpg.jpg);  
-      -webkit-background-size:cover;
-      background-position:center center;
+      background-image: url(images/mountain2.jpg.jpg);
+      background-position:center;
       background-attachment:fixed;
 }
 
 .img-area-three{
       background-image: url(images/city.jpg); 
-      -webkit-background-size:cover;
-      background-position:center center;
+      background-position:center;
       background-attachment:fixed;
 }
 
 .img-area-four{
       background-image: url(images/city2.jpg);  
-      -webkit-background-size:cover;
       background-position:center;
       background-attachment:fixed;
 }
@@ -45,6 +41,8 @@ div {
       background: #0000;
       color: #ffff;
       text-align: center;
+      backgroud-position:center;
+      background-size:cover;
 }
 
 .box h2 {
