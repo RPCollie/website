@@ -23,11 +23,11 @@ a {
 }
 
 a:link {
-  color: white;
+  color: navy;
 }
 
 a:visited {
-  color: gold;
+  color: gray;
 }
 
 a:hover {
@@ -35,7 +35,7 @@ a:hover {
 }
 
 a:active {
-  color: organge;
+  color: indigo;
 }
 
 li {
