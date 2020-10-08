@@ -16,7 +16,7 @@ body, html {
 
 .background1 {
         background-image: url('images/mountain.jpg');
-        min-height: 350px;
+        min-height: 100px;
 }
 
 .background2 {
@@ -29,61 +29,55 @@ body, html {
         min-height: 350px;
 }
 
-.buttoniv {
-        position: absolute;
-        top: 50%;
-        width: 100%;
-        text-align: center;
-        color: black;
+.buttondiv{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
 }
-
-.button {
-        text-transform:uppercase;
-        text-decoration:none;
-        border: 2px solid white;
-        color: white;
-        padding:16px;
-        font-size: 22px;
-        letter-spacing:8px;
+.button{
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 2px solid white;
+    color: white;
+    padding: 16px;
+    font-size: 22px;
+    letter-spacing: 8px;
 }
-
 .button:hover{
-        background-color: gray;
-        transition:1s;
-        opacity:0.5;
-        
+    background-color: #232425;
+    transition: 1s;
+    opacity: 0.5;
 }
-
-.heading {
-        letter-spacing: 4px;
-        text-transform: uppercase;
-        text-align:center;
-        color:black;
+.heading{
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
 }
-
 .welcome{
-        color: gray;
-        background-color:white;
-        text-align:center;
-        padding: 60px 50px;    
+    color: #6b6a6a;
+    background-color: white;
+    text-align: center;
+    padding: 60px 50px;
+    text-align: justify;
 }
-
-.about {
-        color: white;
-        background-color:gray;
-        text-align:center;
-        padding: 60px 50px;      
+.about{
+    color: #9c9b9b;
+    background-color: #232425;
+    text-align: center;
+    padding: 60px 50px;
+    text-align: justify;
 }
-
-.contact {
-        color: gray;
-        background-color:white;
-        text-align:center;
-        padding: 60px 50px;       
+.contact{
+    color: #232425;
+    background-color: white;
+    text-align: center;
+    padding: 60px 50px;
+    text-align: justify;
 }
-
-.wrapper{ 
-        position:relative;
+.wrapper{
+    position: relative;
 }
-
 
