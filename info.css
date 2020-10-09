@@ -4,7 +4,7 @@ body, html {
 }
 
 li {
-  float: left;
+  float: right;
   display:inline;
 }
 
@@ -12,4 +12,8 @@ a {
   padding: 8px;
   background-color: black;
   color:yellow;
+}
+
+a:hover {
+  background-color: white;
 }
