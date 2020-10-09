@@ -16,22 +16,22 @@ body, html {
 
 .background1 {
         background-image: url('images/mountain.jpg');
-        min-height: 900px;
+        min-height: 350px;
 }
 
 .background2 {
         background-image: url('images/waterview.jpg');
-        min-height: 900px;
+        min-height: 350px;
 }
 
 .background3 {
         background-image: url('images/nightwaterfall.jpg');
-        min-height: 900px;
+        min-height: 350px;
 }
 
 .background3 {
         background-image: url('images/city2.jpg');
-        min-height: 900px;
+        min-height: 350px;
 }
 
 .buttondiv{
@@ -75,12 +75,6 @@ body, html {
     padding: 60px 50px;
     text-align: justify;
 }
-.contact{
-    color: black;
-    background-color: white;
-    text-align: center;
-    padding: 60px 50px;
-    text-align: justify;
-}
+
 
 
