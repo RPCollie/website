@@ -6,6 +6,7 @@ body, html {
 li {
          float: right;
          display:inline;
+         list-style-type: none;
 }
 
 a {
@@ -18,11 +19,12 @@ a:hover {
          background-color: navy;
 }
 
-.websites {
+ul.websites {
          color:yellow;
          display:block;
 }
 
-.websites:hover{
-         background-color:navy;        
+ul.websites:hover{
+         background-color:navy;
+         list-style-type:none;
 }
