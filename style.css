@@ -16,17 +16,22 @@ body, html {
 
 .background1 {
         background-image: url('images/mountain.jpg');
-        min-height: 550px;
+        min-height: 900px;
 }
 
 .background2 {
         background-image: url('images/waterview.jpg');
-        min-height: 550px;
+        min-height: 900px;
 }
 
 .background3 {
         background-image: url('images/nightwaterfall.jpg');
-        min-height: 550px;
+        min-height: 900px;
+}
+
+.background3 {
+        background-image: url('images/city2.jpg');
+        min-height: 900px;
 }
 
 .buttondiv{
