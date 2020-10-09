@@ -3,11 +3,12 @@ body, html {
 }
 
 li {
-  float: right;
+  float: left;
   display:inline;
 }
 
 a {
   padding: 8px;
-  background-color: orange;
+  background-color: black;
+  color:yellow;
 }
