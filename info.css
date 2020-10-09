@@ -2,13 +2,12 @@ body, html {
    
 }
 
-li a {
-    display:block;
-    color: orange;
-    background-color: black;
+li {
+  float: right;
 }
 
-li {
-    float:right;
-    
+a {
+  display: block;
+  padding: 8px;
+  background-color: orange;
 }
