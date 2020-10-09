@@ -1,1 +1,14 @@
+body, html {
+   
+}
 
+li a {
+    display:block;
+    color: orange;
+    background-color: black;
+}
+
+li {
+    float:right;
+    
+}
