@@ -5,8 +5,8 @@ body{
 }
 
 .header {
-    margin:-20px;
-    padding:-20px;
+    margin:0px;
+    padding:0px;
     background:navy; 
     font-size:35px;
 }
