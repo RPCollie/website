@@ -34,6 +34,11 @@ body, html {
         min-height: 350px;
 }
 
+.background4 {
+        background-image: url('images/city2.jpg');
+        min-height: 350px;
+}
+
 .buttondiv{
     position: absolute;
     top: 50%;
