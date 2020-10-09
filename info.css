@@ -4,16 +4,25 @@ body, html {
 }
 
 li {
-  float: right;
-  display:inline;
+         float: right;
+         display:inline;
 }
 
 a {
-  padding: 8px;
-  background-color: black;
-  color:yellow;
+         padding: 8px;
+         background-color: black;
+         color:yellow;
 }
 
 a:hover {
-  background-color: navy;
+         background-color: navy;
+}
+
+.websites {
+         color:yellow;
+         display:block;
+}
+
+.websites:hover{
+         background-color:navy;        
 }
