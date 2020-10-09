@@ -4,7 +4,7 @@ body, html {
         font-family: Arial;
 }
 
-.background1, .background2, .background3 {
+.background1, .background2, .background3, .background4 {
         position: relative;
         opacity:0.6;
         background-attachment:fixed;
