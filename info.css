@@ -16,15 +16,15 @@ a {
 }
 
 a:hover {
-         background-color: navy;
+         background-color: gray;
 }
 
 ul.websites {
          color:yellow;
-         display:block;
+         
 }
 
 ul.websites:hover{
-         background-color:navy;
+         background-color:gray;
          list-style-type:none;
 }
