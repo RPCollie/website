@@ -134,6 +134,9 @@ header::before {
       }
 
        .btns {
+        display: flex;
+        justify-content: center;
+        align-items: center;   
         float: center;           
 }
 
