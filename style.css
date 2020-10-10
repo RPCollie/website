@@ -82,7 +82,7 @@ header::before {
         cursor: pointer;
         text-transform: uppercase;
           position:absolute;
-          top: 50%;
+         
       }
 
       .button1 {
@@ -98,7 +98,7 @@ header::before {
         cursor: pointer;
           text-transform: uppercase;
           position:absolute;
-          top:50%;
+          
       }
 
       .button2 {
@@ -114,7 +114,7 @@ header::before {
         cursor: pointer;
           text-transform: uppercase;
           position: absolute;
-              top: 50%;
+              
       }
 
       .button3 {
@@ -130,6 +130,6 @@ header::before {
         cursor: pointer;
           text-transform: uppercase;
           position: absolute;
-          top: 50%;
+          
       }
 
