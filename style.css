@@ -81,7 +81,7 @@ header::before {
         margin: 4px 2px;
         cursor: pointer;
         text-transform: uppercase;
-          position: center;
+        
          
       }
 
@@ -97,7 +97,7 @@ header::before {
         margin: 4px 2px;
         cursor: pointer;
           text-transform: uppercase;
-          position: center;
+          
           
       }
 
@@ -113,7 +113,7 @@ header::before {
         margin: 4px 2px;
         cursor: pointer;
           text-transform: uppercase;
-          position: center;
+          
               
       }
 
@@ -129,7 +129,17 @@ header::before {
         margin: 4px 2px;
         cursor: pointer;
           text-transform: uppercase;
-          position: center;
+          
           
       }
+
+
+    .container1 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 
