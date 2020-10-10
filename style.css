@@ -1,113 +1,17 @@
-* {
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+body {
+        height:2000px;
+       
 }
 
-.parallax {
-    height:100vh;
-    width:100%;
-    display:flex;
-    justify-content: center;
-    align-items:center;
-    text-align:center;
-    position:relative;
-    z-index:-1;
+.diagonal {
+        width:60%;
+        height:700px;
+        float:right;
+        background-image: url(images/night3.jpg);
+        border-left: 200px solid white;
+        border-top:700px solid transparent;
+        background-attachment:fixed;
+        
     
 }
-
-.parallax  h1 {
-    letter-spacing:5px; 
-    margin-bottom:20px;
-}
-
-.parallax1::before {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: url("images/night1.jpg") center/center cover;
-    background-attachment:fixed;
-    z-index:-1;
-}
-
-.parallax1::after {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: 0, 0, 0, 0.459;
-    z-index:-1;
-}
-
-.parallax2::before {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: url("images/night2.jpg") center/center cover;
-    background-attachment:fixed;
-    z-index:-1;
-}
-
-.parallax2::after {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: 0, 0, 0, 0.459;
-    z-index:-1;
-}
-
-.parallax3::before {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: url("images/night3.jpg") center/center cover;
-    background-attachment:fixed;
-    z-index:-1;
-}
-
-.parallax3::after {
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background: 0, 0, 0, 0.459;
-    z-index:-1;
-}
-
-.text {
-    padding:60px, 50px;
-    background-color:gray;
-    color:white;
-    
-}
-
-.text h1 {
-    text-size:13px;
-    margin-bottom:15px; 
-}
-
-.text p {
-    text-align:justify;
-    
-}
-.container{
-    height:150px;   
-}
-
 
