@@ -96,7 +96,7 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
-          text-transform: uppercase;
+        text-transform: uppercase;
           
           
       }
@@ -112,7 +112,7 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
-          text-transform: uppercase;
+        text-transform: uppercase;
           
               
       }
@@ -128,9 +128,13 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
-          text-transform: uppercase;
+        text-transform: uppercase;
           
           
       }
+
+       .btns {
+        float: center;           
+}
 
 
