@@ -7,11 +7,39 @@ body {
         width:60%;
         height:700px;
         float:right;
-        background-image: url(images/night3.jpg);
+        background-image: url("images/night3.jpg");
         border-left: 200px solid white;
         border-top:700px solid transparent;
-        background-attachment:fixed;
+        background-attachment:fixed;   
+}
+
+.box {
+       float:left;
+       height:700px;
+}
+
+.outer {
+      width:100%;
+      height:100%;
+      display:table;
         
-    
+}
+
+.innter {
+      display:table-cell;
+      vertical-align:middle;
+}
+
+.about .content-title h3 {
+       text-align:left;       
+}
+
+.about .underline {
+        margin: 0 0 30px 0p;       
+}
+
+.about-desc p {
+        margin-bottom: 30px;
+        font-size:17px;
 }
 
