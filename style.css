@@ -80,6 +80,8 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
+        text-transform: uppercase;
+          position:center;
       }
 
       .button1 {
@@ -93,6 +95,8 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
+          text-transform: uppercase;
+          position:center;
       }
 
       .button2 {
@@ -106,6 +110,8 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
+          text-transform: uppercase;
+          position:center;
       }
 
       .button3 {
@@ -119,5 +125,7 @@ header::before {
         font-size: 20px;
         margin: 4px 2px;
         cursor: pointer;
+          text-transform: uppercase;
+          position:center;
       }
 
