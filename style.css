@@ -81,7 +81,7 @@ header::before {
         margin: 4px 2px;
         cursor: pointer;
         text-transform: uppercase;
-        border-radius: 50%;
+        border-radius: 12px;
         padding: 12px;  
         
          
