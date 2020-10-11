@@ -1,31 +1,37 @@
-body, html {
-         background-color:black;
-   
+ body {
+  background-color: gold;
 }
 
-li {
-         float: right;
-         display:inline;
-         list-style-type: none;
+  h1 {
+  color: black;
+  text-align: center;
+}
+    
+  a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+    
+  a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+    
+    
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
 }
 
-a {
-         padding: 8px;
-         background-color: black;
-         color:yellow;
+td, th {
+  border: 16px solid #blue;
+  text-align: center;
+  padding: 8px;
 }
 
-a:hover {
-         background-color: gray;
-}
-
-ul.websites {
-         color:yellow;
-         display:block;
-         
-}
-
-ul.websites:hover{
-         background-color:gray;
-         list-style-type:none;
+tr:hover {
+  background-color: #f5f5f5;
 }
