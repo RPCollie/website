@@ -3,5 +3,9 @@ body {
 }
 
 .videos {
-    postion: center; 
+    postion: absolute; 
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%
 }
