@@ -1,27 +1,25 @@
  body {
-  background-color: #006400;
+  background-color: white;
 }
 
   h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
     
   a:hover {
-  color: white;
+  color: gold;
   background-color: transparent;
   text-decoration: underline;
 }
     
   a:link {
-  color: white;
   background-color: transparent;
   text-decoration: none;
 }
-    
-    
+     
   table {
-  font-color: white;
+  font-color: black;
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 50%;
@@ -34,5 +32,10 @@ td, th {
 }
 
 tr:hover {
-  background-color: black;
+  background-color: #E3E3E3;
+}
+
+center {
+  margin-left:auto; 
+  margin-right:auto;
 }
