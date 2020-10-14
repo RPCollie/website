@@ -88,7 +88,7 @@ header::before {
          
       }
 
-        .button:hover, .button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:hover, .button6:hover {
+        .button:hover, .button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:hover, {
         background-color: black;
 }
 
