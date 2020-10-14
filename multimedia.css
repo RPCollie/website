@@ -3,13 +3,14 @@ body {
 }
 
 h1 {
-    text-align:center;   
+    text-align: center;
+    margin: 0px auto;   
 }
 
-h1 {
+h2 {
     text-align: center;
     margin: 0px auto;
-    display; block;
+    display: block;
 }
 
 ul {
