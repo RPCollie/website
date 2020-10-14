@@ -63,22 +63,22 @@ tr:hover {
 }
 
 .table {
-  position: absolute;
-  margin: 0px auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .form {
-  position: absolute;
-  margin: 0px auto; 
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .buttons {
-  position: absolute;
-  margin: 0px auto; 
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .checkbox {
-  position: absolute;
-  margin: 0px auto; 
+  margin-left: auto;
+  margin-right: auto;
 }
 
