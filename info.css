@@ -5,10 +5,13 @@
   h1 {
   color: black;
   text-align: center;
+  margin: 0px auto;
 }
 
 h3 {
-  position: center:
+ color: black;
+ text-align: center;
+ margin: 0px auto;
 }
     
 ul {
