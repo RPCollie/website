@@ -6,6 +6,10 @@
   color: black;
   text-align: center;
 }
+
+h3 {
+  position: center:
+}
     
   a:hover {
   color: gold;
@@ -23,6 +27,7 @@
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 50%;
+  text-align: center;
 }
 
 td, th {
