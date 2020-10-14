@@ -62,4 +62,23 @@ tr:hover {
   background-color: #E3E3E3;
 }
 
+.table {
+  position: absolute;
+  margin: 0px auto;
+}
+
+.form {
+  position: absolute;
+  margin: 0px auto; 
+}
+
+.buttons {
+  position: absolute;
+  margin: 0px auto; 
+}
+
+.checkbox {
+  position: absolute;
+  margin: 0px auto; 
+}
 
