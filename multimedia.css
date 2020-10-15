@@ -9,6 +9,12 @@ h1 {
     display: block;
 }
 
+h2 {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+}
+
 p {
     text-align: center;
     margin: 0px auto;
