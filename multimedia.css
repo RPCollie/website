@@ -17,9 +17,10 @@ h2 {
 
 p {
     text-align: center;
+    text-size: 12px;
     margin: 0px auto;
+    margin-bottom: 25px;
     display: block;
-    padding-bottom: 25px;
 }
 
 ul {
