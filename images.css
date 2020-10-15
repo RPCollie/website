@@ -1,15 +1,9 @@
 body{
-    background:gold;
+    background:#666;
     margin:0px;
     text-align:center;
 }
 
-.header {
-    margin:0px;
-    padding:0px;
-    background:navy; 
-    font-size:35px;
-}
 
 ul {
   list-style-type: none;
@@ -33,7 +27,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #ddd;
+  background-color: red;
 }
 
 li a.active {
@@ -41,35 +35,13 @@ li a.active {
   background-color: #4CAF50;
 }
 
-h1 {
-    color:gold;
-    
-}
 
 a {
     font-size:15px;
     padding:25px;
 }
 
-a:link {
-  color: navy;
-}
 
-a:visited {
-  color: gray;
-}
-
-a:hover {
-  color: red;
-}
-
-a:active {
-  color: indigo;
-}
-
-li {
-    display:inline;   
-}
 .container{
     display:grid;
     grid-template-columns: repeat(6,1fr);
