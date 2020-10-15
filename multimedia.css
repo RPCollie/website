@@ -3,7 +3,13 @@ body {
 }
 
 
-h2 {
+h1 {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+}
+
+p {
     text-align: center;
     margin: 0px auto;
     display: block;
