@@ -32,6 +32,13 @@ li a.active {
   background-color: #4CAF50;
 }
 
-.fa-youtube {
+ .youtube {
   background: #bb0000;
   color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
