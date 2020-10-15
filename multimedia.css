@@ -24,6 +24,14 @@ p {
     display: block;
 }
 
+p2 {
+    text-align: center;
+    text-size: 8px;
+    margin: 0px auto;
+    margin-bottom: 45px;
+    display: block;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
