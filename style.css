@@ -97,7 +97,7 @@ li a:hover:not(.active) {
 }
 
 li a.active {
-  color: white;
+  color: red;
   background-color: #4CAF50;
 }
 
