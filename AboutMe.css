@@ -31,7 +31,7 @@ li a.active {
 
 .pic1 {
   border: 1px solid black;
-  background: url(images/Guam.JPG) no-repeat center;
+  background: url("images/Guam.JPG") no-repeat center;
   background-size: cover;
   padding: 15px;
   height: 500px;
@@ -44,5 +44,4 @@ li a.active {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
 }
