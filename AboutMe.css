@@ -9,6 +9,13 @@ body {
     margin: auto;
 }
 
+.nav {
+    width: 1100px;
+    background-color: purple;
+    margin: auto;
+    overflow: auto;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
