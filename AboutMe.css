@@ -32,6 +32,7 @@ li {
 }
 
 a:link {
+  color: #666;
   width: 125px;
   text-align: center;
   display: block;
