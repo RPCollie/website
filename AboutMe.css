@@ -14,7 +14,7 @@ body {
     background-color: black;
     margin: auto;
     overflow: auto;
-    items: center;
+   
 }
 
 ul {
@@ -32,6 +32,7 @@ li {
 }
 
 a:link {
+  width: 125px;
   text-align: center;
   display: block;
   padding: 15px;
@@ -39,17 +40,6 @@ a:link {
   font-size: 18px;
 }
 
-li a {
-  display: block;
-  color: #666;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color: red;
-}
 
 li a.active {
   color: white;
