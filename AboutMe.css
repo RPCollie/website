@@ -32,16 +32,22 @@ li {
   float: left;
 }
 
-a:link {
-  font-color: #666;
-  width: 125px;
-  text-align: center;
+li a {
   display: block;
-  padding: 15px;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 18px;
 }
 
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+li a.active {
+  color: white;
+  background-color: #4CAF50;
+}
 
 .fa {
   padding: 20px;
