@@ -17,8 +17,6 @@ body {
     margin: auto;
     overflow: auto;
     text-align: center;
-    position: fixed;
-    top: 0;
 }
 
 ul {
