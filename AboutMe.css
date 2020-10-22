@@ -17,6 +17,7 @@ body {
     overflow: auto;
     text-align: center;
     position: fixed;
+    top: 0;
 }
 
 ul {
@@ -48,10 +49,6 @@ li a:hover:not(.active) {
 li a.active {
   color: white;
   background-color: #4CAF50;
-}
-
-.music {
-   text-align: center;
 }
 
 .fa {
