@@ -8,7 +8,6 @@ body {
     height: 450px;
     margin: auto;
     padding-bottom: 0;
-    background-attahcment: fixed;
 }
 
 .nav {
@@ -17,6 +16,8 @@ body {
     margin: auto;
     overflow: auto;
     text-align: center;
+    position: fixed;
+    top: 0;
 }
 
 ul {
