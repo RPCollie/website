@@ -19,7 +19,8 @@ body {
 }
 
 .music {
-    position: center; 
+    text-align: center; 
+    align-itmes: center;
 }
 
 ul {
