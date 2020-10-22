@@ -18,6 +18,10 @@ body {
     text-align: center;
 }
 
+.music {
+    position: center; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
