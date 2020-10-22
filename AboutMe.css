@@ -21,6 +21,7 @@ body {
 .music {
     text-align: center; 
     margin: 0;
+    position: absolute;
 }
 
 ul {
