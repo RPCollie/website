@@ -50,6 +50,10 @@ li a.active {
   background-color: #4CAF50;
 }
 
+.main {
+    text-align: center; 
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
